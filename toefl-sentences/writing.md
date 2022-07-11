@@ -1,5 +1,17 @@
 # Writing
 
+# Task one:
+1. This point is **rebutted** by the lecturer.
+2. The professor, in contrast, dismisses this reason
+3. The reading passage provides three reasons **as to why**..., whereas the lecturer opposes them all...
+4. ... there are plenty of downsides to ...
+5. The lecturer believes that this is no the whole picture/big picture
+6. The passage and the lecture both shed light on the ...
+7. The lecturer, however, finds the ... impractical and explains why the advantages mentioned in the passage are actually disadvantages in disguise.
+
+
+# Task Two
+
 ## Topic: In order to succeed, you should be more like others than be different from everyone else.
 1. Hardly will someone **get recognition** by following the same path of pioneers.
 2. Instead, by practicing stuffs which are **eye-catching and far-fetch**, one is more likely to not only get recognized but also succeed.
@@ -16,3 +28,9 @@
    2. The more people travel to a place, the more famous it gets.
    3. When governments allocate enough budget to the embellishment of the streets, ...
    4. Visually attractive buildings and streets enhance citizens' spirits and brighten their moods.
+
+
+
+# Sentences & Expressions:
+1. This would help them to earn a **superb** profit
+2. The more something is mined/produced, the more its **supply**
