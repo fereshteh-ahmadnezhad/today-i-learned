@@ -32,6 +32,7 @@
    3. When governments allocate enough budget to the embellishment of the streets, ...
    4. Visually attractive buildings and streets enhance citizens' spirits and brighten their moods.
 
+## Topic:  Although science and technology will continue to improve, the most significant improvement for the quality of people’s lives have already taken place
 
 
 # Sentences & Expressions:
