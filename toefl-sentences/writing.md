@@ -5,12 +5,15 @@
 2. The professor, in contrast, dismisses this reason
 3. The reading passage provides three reasons **as to why**..., whereas the lecturer opposes them all...
 4. ... there are plenty of downsides to ...
-5. The lecturer believes that this is no the whole picture/big picture
+5. The lecturer believes that this is not the whole picture/big picture
 6. The passage and the lecture both shed light on the ...
-7. The lecturer, however, finds the ... impractical and explains why the advantages mentioned in the passage are actually disadvantages in disguise.
+7. The lecturer, however, finds the ... impractical and explains why the advantages mentioned in the passage are actually **disadvantages in disguise**.
 
 
 # Task Two
+## Handy collocations:
+1. The ... is a compelling example of this.
+2. Firmly possess the conviction that
 
 ## Topic: In order to succeed, you should be more like others than be different from everyone else.
 1. Hardly will someone **get recognition** by following the same path of pioneers.
