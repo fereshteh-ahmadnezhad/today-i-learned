@@ -33,8 +33,10 @@
    4. Visually attractive buildings and streets enhance citizens' spirits and brighten their moods.
 
 ## Topic:  Although science and technology will continue to improve, the most significant improvement for the quality of people’s lives have already taken place
-
+1. It was a **huge milestone** in medicine.
+2. Nuclear energy, if used properly, is a safe and never-ending source of energy
 
 # Sentences & Expressions:
 1. This would help them to earn a **superb** profit
 2. The more something is mined/produced, the more its **supply**
+3. Some may shortsightedly think that people have already reached to the pinnacle of the quality of their lives
