@@ -1,6 +1,24 @@
 # Speaking Sentences
 
-1. Nowadays, children are easily surrendering to slightly tough/challenging circumstances, which should be dealt with.
+Handy Reasons:
+1. It boosts one's self-confidence...
+2. It is economical...
+3. It is time-consuming...
+4. It relieves one's stress and anxiety...
+5. It helps one socialize with others or improve one's social skills.
+6. It will help one to broaden their perspective/horizon
+7. It will help one to enrich their experience
+8. One's personal life: 
+   1. People lead a hectic life, job, live in a metropolitan city
+9. One's personality:
+   1. Some are introverted. Opposite: sociable
+   2. They would rather hang out/socialize with friends
+10. Effect on one's personality/experience
+    1. One is a shy person, but such a change/an experience may help them **to learn how to view life differently**.
+11. Psychological effects on one: 
+    1. It will **enhance/boost their self-confidence**
+    2. It will help them develop a positive self-image
+    3. It will raise their self-esteem.
 
 
 ## Topic: People will read less book in the future
@@ -45,3 +63,4 @@
 8. Students not gaining **valuable experience**.
 9. It wouldn't allow them to **prime themselves properly**.
 10. It wouldn't allow them to prime themselves to do their jobs upon their graduation.
+11. It wouldn't allow them to enrich their experience.
