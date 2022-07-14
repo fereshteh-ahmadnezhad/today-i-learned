@@ -32,3 +32,16 @@
 1. such parties would allow me to enlarge my circle of fiends
 2. such parties would allow me to expand my social network
 3. By meeting new people, I increase my chances **of landing well-paid jobs** in the future
+
+
+## Topic: part-time job while attending university
+1. This is a sheer waste of time.
+2. This is a **golden time** for students
+3. They should pursue their education where their dreams lie.
+4. They would acquire lousy jobs.
+5. Studying in university is **so demanding**, so students may fail **to keep up** with others
+6. Writing reports and papers are **so time-consuming**.
+7. Working at the same time may cause them to fail to do their assignments **which may lead to stress and anxiety**.(The last sentence could be used everywhere)
+8. Students not gaining **valuable experience**.
+9. It wouldn't allow them to **prime themselves properly**.
+10. It wouldn't allow them to prime themselves to do their jobs upon their graduation.
