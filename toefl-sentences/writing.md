@@ -55,6 +55,12 @@
    7. Roommates can share intimate aspects of their lives.
    8. Having a roommate can be a very **joyous and affordable** experience
 
+## Topic: Is it worthwhile to watch movies containing invaluable information about daily life?
+1. Boost communication skills.
+2. Movies can lead people to irreparable outcomes.
+3. The more he invested in the stock market, the more he benefited.
+4. I totally ignored the fact that the man in the movie was a contrived character and not a real one.
+5. Stop watching purposeless genres; therefore, meaningless genres cannot unfavorably influence your life.
 
 # Sentences & Expressions:
 1. This would help them to earn a **superb** profit
