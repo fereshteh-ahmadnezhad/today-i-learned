@@ -32,11 +32,33 @@
    3. When governments allocate enough budget to the embellishment of the streets, ...
    4. Visually attractive buildings and streets enhance citizens' spirits and brighten their moods.
 
-## Topic:  Although science and technology will continue to improve, the most significant improvement for the quality of people’s lives have already taken place
+## Topic: Although science and technology will continue to improve, the most significant improvement for the quality of people’s lives have already taken place
 1. It was a **huge milestone** in medicine.
 2. Nuclear energy, if used properly, is a safe and never-ending source of energy
+
+## Topic: Recommend a way to reduce expenses. 
+1. Introduction:
+   1. In the modern era, more and more young adults are inclined toward living independently.
+   2. experience world by themselves and act freely.
+   3. Although living independently is very **appealing**, it has **many drawbacks**, **one of which** is living expenses.
+   4. Expenses are sometimes to the roof
+   5. In this regard, people are looking to cut their expenses 
+   6. Avoid **eating out**
+   7. I will elaborate on my reasons in what follows.
+2. sharing room with a roommate:
+   1. ... cut all living expense in half.
+   2. Save a ton of money.
+   3. having a roommate is a consistent way of saving money.
+   4. There are many ways to **cut back expenses**.
+   5. There are many other ways to cut back expenses, but they are not practical, and one may not be able to stay on top of them.
+   6. Some may want to **treat themselves to an expensive dish** once in a while; therefore, bounding to the approaches mentioned above may be impractical.
+   7. Roommates can share intimate aspects of their lives.
+   8. Having a roommate can be a very **joyous and affordable** experience
+
 
 # Sentences & Expressions:
 1. This would help them to earn a **superb** profit
 2. The more something is mined/produced, the more its **supply**
 3. Some may shortsightedly think that people have already reached to the pinnacle of the quality of their lives
+4. Nowadays, children are easily **surrendering to slightly tough/challenging circumstances**, which should **be dealt with**.
+5.  
