@@ -28,3 +28,7 @@
 4. By choosing with whom I want to work, I can improve the efficacy of my workplace and also develop a friendlier atmosphere.
 
 
+## Topic: party with friends or dinner with family members
+1. such parties would allow me to enlarge my circle of fiends
+2. such parties would allow me to expand my social network
+3. By meeting new people, I increase my chances **of landing well-paid jobs** in the future
