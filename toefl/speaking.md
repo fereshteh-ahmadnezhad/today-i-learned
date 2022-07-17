@@ -5,14 +5,14 @@ Handy Reasons:
 2. It is economical...
 3. It is time-consuming...
 4. It relieves one's stress and anxiety...
-5. It helps one socialize with others or improve one's social skills.
+5. It helps one socialize with others or improves one's social skills.
 6. It will help one to broaden their perspective/horizon
 7. It will help one to enrich their experience
 8. One's personal life: 
    1. People lead a hectic life, job, live in a metropolitan city
 9. One's personality:
    1. Some are introverted. Opposite: sociable
-   2. They would rather hang out/socialize with friends
+   2. They would rather **hang out/socialize** with friends
 10. Effect on one's personality/experience
     1. One is a shy person, but such a change/an experience may help them **to learn how to view life differently**.
 11. Psychological effects on one: 
@@ -51,6 +51,13 @@ Handy Reasons:
 2. such parties would allow me to expand my social network
 3. By meeting new people, I increase my chances **of landing well-paid jobs** in the future
 
+## Topic: keep old stuff, like newspapers, or through them away after using them
+1. Holding on old stuff kills the spirit of change in life
+2. I feel like they are holding me back from moving forward
+3. Used stuff are space-consuming 
+4. I can allocate the space to better objects
+5. Old stuff could be recycles which in turn prevents deforestation
+
 
 ## Topic: part-time job while attending university
 1. This is a sheer waste of time.
@@ -64,3 +71,8 @@ Handy Reasons:
 9. It wouldn't allow them to **prime themselves properly**.
 10. It wouldn't allow them to prime themselves to do their jobs upon their graduation.
 11. It wouldn't allow them to enrich their experience.
+12. food:
+    1. Obesity is alarmingly on the rise
+    2. people should cut junk foods from their meals
+    3. people should pay extra attention to **food hygiene**.
+    4. to dismiss extra fat from their body, people should stop eating-out
