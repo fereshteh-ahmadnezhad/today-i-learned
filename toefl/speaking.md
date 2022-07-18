@@ -64,14 +64,15 @@ Handy Reasons:
 2. This is a **golden time** for students
 3. They should pursue their education where their dreams lie.
 4. They would acquire lousy jobs.
-5. Studying in university is **so demanding**, so students may fail **to keep up** with others
-6. Writing reports and papers are **so time-consuming**.
-7. Working at the same time may cause them to fail to do their assignments **which may lead to stress and anxiety**.(The last sentence could be used everywhere)
-8. Students not gaining **valuable experience**.
-9. It wouldn't allow them to **prime themselves properly**.
-10. It wouldn't allow them to prime themselves to do their jobs upon their graduation.
-11. It wouldn't allow them to enrich their experience.
-12. food:
+5. By focusing on their education, they can grow competent not by doing low-level part-time jobs
+6. Studying in university is **so demanding**, so students may fail **to keep up** with others
+7. Writing reports and papers are **so time-consuming**.
+8. Working at the same time may cause them to fail to do their assignments **which may lead to stress and anxiety**.(The last sentence could be used everywhere)
+9. Students not gaining **valuable experience**.
+10. It wouldn't allow them to **prime themselves properly**.
+11. It wouldn't allow them to prime themselves to do their jobs upon their graduation.
+12. It wouldn't allow them to enrich their experience.
+13. food:
     1. Obesity is alarmingly on the rise
     2. people should cut junk foods from their meals
     3. people should pay extra attention to **food hygiene**.
