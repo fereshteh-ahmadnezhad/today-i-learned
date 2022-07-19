@@ -19,7 +19,11 @@ Handy Reasons:
     1. It will **enhance/boost their self-confidence**
     2. It will help them develop a positive self-image
     3. It will raise their self-esteem.
-
+12. food:
+    1. Obesity is alarmingly on the rise
+    2. people should cut junk foods from their meals
+    3. people should pay extra attention to **food hygiene**.
+    4. to dismiss extra fat from their body, people should stop eating-out 
 
 ## Topic: People will read less book in the future
 1. **thanks to the cutting-edge technology**, reading books has become easier.
@@ -59,6 +63,12 @@ Handy Reasons:
 5. Old stuff could be recycles which in turn prevents deforestation
 
 
+## Topic: studying with others in group is more beneficial. Explain your reasons.
+1. you use the insight and knowledge of other group members
+2. Students have various cognitive skills, and each can master a different subject; therefore, they can help each other to learn more comprehensively.
+3. Student can enrich their social skills, for each member has a unique characteristic and perspective, so they will encounter various types of people, which in turn, will help them to become more socially compatable with others.
+4. Studying in groups will relieve the pressure student may feel by providing a friendly environment.
+
 ## Topic: part-time job while attending university
 1. This is a sheer waste of time.
 2. This is a **golden time** for students
@@ -72,8 +82,10 @@ Handy Reasons:
 10. It wouldn't allow them to **prime themselves properly**.
 11. It wouldn't allow them to prime themselves to do their jobs upon their graduation.
 12. It wouldn't allow them to enrich their experience.
-13. food:
-    1. Obesity is alarmingly on the rise
-    2. people should cut junk foods from their meals
-    3. people should pay extra attention to **food hygiene**.
-    4. to dismiss extra fat from their body, people should stop eating-out
+
+## Topic: Parents should help their children to choose a career
+1. Disagree:
+   1. If parents choose a career for their children, and the face a tough spot they would blame them for that...
+2. Agree:
+   1. parents can predict potential prosperity of each career; therefore, they can help their children to choose a job that offers the highest salaries and most prominent social status :)
+   2. Teenagers have an unstable state of mind; thus, they might fail to distinguish between temporary feelings and the authentic desires they have, which in turn would lead them to choose a career that might not suit them the best:) 
