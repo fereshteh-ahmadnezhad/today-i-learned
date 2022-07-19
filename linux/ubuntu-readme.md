@@ -119,12 +119,12 @@ Curl
 
 How to send a base64 request using curl:
 ```
-(echo -n '{"image": "'; base64 /home/parsa/Desktop/test.png; echo '"}') | curl -H "Content-Type: application/json" -d @-  http://79.175.131.16:5000/pathology# orcurl -X POST https://reqbin.com/echo/post/json   -H 'Content-Type: application/json'   -d '{"login":"my_login","password":"my_password"}'
+(echo -n '{"image": "'; base64 <img-path>; echo '"}') | curl -H "Content-Type: application/json" -d @-  http://ip:port/endpoint# orcurl -X POST https://reqbin.com/echo/post/json   -H 'Content-Type: application/json'   -d '{"login":"my_login","password":"my_password"}'
 ```
 
 How to send a form request using curl:
 ```
-curl http://192.168.42.137:5000/covid -F image=@/home/parsa/Downloads/covid.jpg -H "Content-Type: multipart/form-data"
+curl http://ip:port/endpoint -F image=@<img-path> -H "Content-Type: multipart/form-data"
 ```
 
 How to see maximum kernel respond:
@@ -189,7 +189,12 @@ ping the domain and the ip address will be shown.
 
 How to give access to a public-key:
 ```
-# Add the following line to the .ssh/config file# gitlab.aimedic.coHost gitlab.aimedic.co  HostName 45.149.77.104  User git  Port 10022  Preferredauthentications publickey  IdentityFile ~/.ssh/id_rsa_aimedic_git
+# Add the following line to the .ssh/config file
+# url
+Host url  
+HostName ip User git  
+Port port  Preferredauthentications publickey
+IdentityFile ~/.ssh/id_rsa_address
 ```
 
 How to install CMake:
@@ -235,7 +240,7 @@ ssh user@ip -p port-number# for security reasons people may change ssh port
 
 How to make ssh to ask for permission:
 ```
-ssh -o IdentitiesOnly=yes al@95.142.237.52 -p 2022
+ssh -o IdentitiesOnly=yes user@ip -p port
 ```
 
 How to boot a window in ubuntu:
@@ -281,9 +286,9 @@ How to search with terminal
 find <target-address> <target-file>find / docker-entrypoint.shfind / *.png# best approachfind ./ -name "<file-name>"make sure to add -name unless it will search for the whole sentence you have written and it should exactly match the directories as well. 
 ```
 
-How to read a file for ever:
+How to read a file forever:
 ```
-tail -f ../aimedic/monitoring/Application/nginx/logs/access.log
+tail -f ../file-address: especially logfiles
 ```
 
 How to repeat curl request like 10 times:
@@ -324,11 +329,15 @@ How to copy a bunch stuff together:
 sudo cp -r directory_name/{bin,include,lib,share} /usr/
 ```
 
-AIMedic connection:
-.ssh/config
-```
-Host gitlab.aimedic.co  HostName 45.149.77.104  User git  Port 10022  Preferredauthentications publickey  IdentityFile ~/.ssh/id_rsa_aimedic_git
-```
+[//]: # (connection:)
+
+[//]: # (.ssh/config)
+
+[//]: # (```)
+
+[//]: # (Host url  HostName ip  User git  Port port  Preferredauthentications publickey  IdentityFile ~/.ssh/rsa_name)
+
+[//]: # (```)
 
 Booting an ubuntu flash:
 ```
@@ -365,9 +374,28 @@ How to check whether a remote server's port is open or not:
 sudo apt-get install netcatnc -zvw10 minio 9001
 ```
 
-How to move items with scp:
+### How to move items with scp:
 ```
-ssh interns@192.168.1.112mkdir -p /home/interns/audio/samples_01/exitscp $wav_dirs/* interns@192.168.1.112:/home/interns/audio/samples_01/ssh interns@192.168.1.112sudo mkdir -p /root/label-studio/mydata/media/upload/audio/samples_01sudo cp /home/interns/audio/samples_01/* /root/label-studio/mydata/media/upload/audio/samples_01# if it exceeds the limit size:for i in /home/interns/audio/samples_01/*; do     sudo cp "$i" /root/label-studio/mydata/media/upload/audio/samples_01/;done# instead of copying you can sync the files as wellsudo rsync -avu --delete /home/interns/audio/samples_01/old-asr /root/label-studio/mydata/media/upload/audio/samples_01
+# get to remote server
+ssh user@ip
+# create a remote directory, if there isn't any
+mkdir -p remote-dir
+# get back to home machine
+exit
+# do scp
+scp home-dir/* user@ip:remote-dir
+# get to remote server
+ssh user@ip
+# create a directory as a root user
+sudo mkdir -p remote-root-dir
+# copy files from remote-dir to remote-root-dir # this is not possible with a usual scp
+sudo cp remote-dir/* remote-root-dir/ 
+# if the above code exceeds the limit size do the following:
+for i in remote-dir/*; do
+     sudo cp "$i" remote-root-dir;
+     done
+# instead of copying you can sync the files as well
+sudo rsync -avu --delete remote-dir remote-root-dir
 ```
 
 How to keep two directories synced forever:
