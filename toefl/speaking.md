@@ -27,10 +27,13 @@ Handy Reasons:
    2. They would rather **hang out/socialize** with friends
 10. Effect on one's personality/experience
     1. One is a shy person, but such a change/an experience may help them **to learn how to view life differently**.
+    2. Such experience could be a proper turning point, which in turn will change their perspective thoroughly. 
 11. Psychological effects on one: 
     1. It will **enhance/boost their self-confidence**
     2. It will help them develop a positive self-image
     3. It will raise their self-esteem.
+    4. It will help them to have sky-high spirits.
+    5. It will help them to achieve a state of self-confidence which would not wear off easily.
 12. food:
     1. Obesity is alarmingly on the rise
     2. people should cut junk foods from their meals
