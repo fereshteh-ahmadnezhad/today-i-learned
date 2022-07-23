@@ -4,6 +4,7 @@ In this repository, I include all my notes and whatever I learn, so that everyon
    * [How to move items with scp](https://github.com/pooya-mohammadi/today-i-learned/blob/main/linux/ubuntu-readme.md#how-to-move-items-with-scp)
 ## [Git](https://github.com/pooya-mohammadi/today-i-learned/tree/main/git)
    * [How to undo the latest commit](https://github.com/pooya-mohammadi/today-i-learned/blob/main/git/Readme.md#how-to-undo-the-latest-commit)
+   * [How to fix merge conflict between forked and main repositories](https://github.com/pooya-mohammadi/today-i-learned/blob/main/git/Readme.md#how-to-fix-merge-conflict-between-forked-and-main-repositories)
 2. [Install Nvidia-Cuda-Cudnn-Torch-TensorFlow](https://github.com/pooya-mohammadi/today-i-learned/blob/main/cuda-gpu-torch-tensorflow/Readme.md)
 3. [deep-learning metrics](https://github.com/pooya-mohammadi/today-i-learned/blob/main/deep-learning-metrics/Readme.md)
    1. [mAP@.5:.95](https://github.com/pooya-mohammadi/today-i-learned/tree/main/deep-learning-metrics#map595)
