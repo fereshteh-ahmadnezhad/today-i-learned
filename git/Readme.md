@@ -273,5 +273,20 @@ funny incident:
 1. I was working on a branch  the other day and checked out to a previous checkouts and made some commits and again checkout to the HEAD🙂
 2. I had a dangling commit which I really needed it.
 3. I listed all commits:
-	1. git fsck --full --no-reflogs | grep commit
+    1. git fsck --full --no-reflogs | grep commit
 4. Found mine and cherry-picked it.
+
+
+## How to fix merge conflict between forked and main repositories:
+```commandline
+# on forked repo 
+git checkout -b <main-repository>-main main # create a branch for the main repository
+git pull https://github.com/<main-repository>/<project-name>.git main # pull main repo to newly created branch
+git checkout main 
+git merge --no-ff <main-repository> # merge the changes from <main-repository>-main to your main branch
+# resolve conflicts ...
+git commit ...
+git push ...
+
+# Create a Pull Request...
+```
