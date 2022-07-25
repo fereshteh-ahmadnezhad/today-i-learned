@@ -1,8 +1,8 @@
 # Speaking Sentences
 
-Think about following aspects of a topic then answer it:
+## Think about following aspects of a topic before answering it:
 1. Education/Learning
-   1. Try to find reasons about how it can help a group to learn better and effectively or how it can adversely affect their chances of absorbing knowledge...
+   1. Try to find reasons about how it can help a group to learn better and effectively, or how it can adversely affect their chances of absorbing knowledge...
 2. Health
    1. relieving stress and anxiety(it fits any topic)
    2. physical and mental health
@@ -12,25 +12,26 @@ Think about following aspects of a topic then answer it:
    1. Almost any experience can be related to future job-opportunities
       1. Even studying in groups can help students to become much more sociable and a team player, which in turn could help them to secure/land well-paid jobs in the future.
 4. Socialize and communicate with others
-   1. Every skill can be related to this skill. Even someone has mentioned how sociable members children can become by taking cooking classes...
-   2. The other one has said that by doing household activities for free children will learn reciprocity; therefore, they will become sociable members of the future society because they would make their contribution without being paid...
+   1. Every skill can be related to this skill. Even someone has mentioned how sociable members children can become in the future by taking cooking classes...
+   2. The other one has said that by doing household activities for free children will learn reciprocity; therefore, they will become **sociable members** of the future society because they would make their contribution without being paid...
 
-Handy Reasons:
-1. It boosts one's self-confidence...
-2. It is economical...
-3. It is time-consuming...
-4. It relieves one's stress and anxiety...
-5. It helps one socialize with others or improves one's social skills.
-6. It will help one to broaden their perspective/horizon
-7. It will help one to enrich their experience
+
+## Handy Reasons:
+1. It **boosts** one's **self-confidence**...
+2. It is **economical**...
+3. It is **time-consuming**...
+4. It relieves one's **stress and anxiety**...
+5. It helps one socialize with others or improves one's **social skills**.
+6. It will help one to **broaden their perspective/horizon**
+7. It will help one to **enrich their experience**
 8. One's personal life: 
-   1. People lead a hectic life, job, live in a metropolitan city
+   1. People lead a hectic life, job, live in a **metropolitan** city
 9. One's personality:
-   1. Some are introverted. Opposite: sociable
+   1. Some are **introverted**. Opposite: sociable
    2. They would rather **hang out/socialize** with friends
-10. Effect on one's personality/experience
+10. Effect on one's **personality/experience**
     1. One is a shy person, but such a change/an experience may help them **learn how to view life differently**.
-    2. Such experience could be a proper turning point, which in turn will change their perspective thoroughly. 
+    2. Such experience could be a **proper turning point**, which in turn will change their perspective thoroughly. 
 11. Psychological effects on one: 
     1. It will **enhance/boost their self-confidence**
     2. It will help them **develop a positive self-image**
@@ -39,8 +40,8 @@ Handy Reasons:
     5. It will help them to **achieve a state of self-confidence** which would not **wear off easily**.
 12. food:
     1. Obesity is **alarmingly on the rise**
-    2. people should cut junk foods from their meals
-    3. people should pay **extra attention** to **food hygiene**.
+    2. people should **cut** junk foods from their meals
+    3. people should pay **extra attention** to **food hygiene**
     4. to dismiss extra fat from their body, people should **stop eating-out** 
 
 ## Topic: People will read less book in the future
@@ -134,4 +135,20 @@ Handy Reasons:
    1. It makes them independent and help them learn social skills
    2. Kids who take cooking classes, as an example, learn how to communicate and socialize with other people
    3. By learning personal finance, children can cut their expenses and be able to save their money efficaciously.
-   4. They will acquaint to the circulation of money and economic procedures. 
+   4. They will acquaint to the circulation of money and economic procedures.
+## What can parents do to help their children have healthy lifestyles:
+1. Parents should become the role models for which children looking in that age.
+2. they should avoid anything that endangers a healthy life.
+3. they should educate their children about the importance of food hygiene
+4. How children should tackle debilitating stress they may have at school
+5. Encourage them to participate in sport clubs.
+
+## It is important to learn about other cultures.
+1. Agree:
+   1. It could enhance one's viewpoint and broaden/expand their horizon 
+   2. when you come across a foreigner, it's very important to have information about the background of them like their nationality 
+   3. It's an essential part of your social and communication skills
+   4. It prevents culture shock
+   5. It's extremely important for exchange students
+   6. foreign cultures contain unparalleled knowledge and insight 
+   7. By studying foreign cultures, one can reach exemplary role models.
