@@ -396,6 +396,9 @@ for i in remote-dir/*; do
      done
 # instead of copying you can sync the files as well
 sudo rsync -avu --delete remote-dir remote-root-dir
+
+# How to scp a directory
+scp -rp direcotry user@ip:<root-address>
 ```
 
 How to keep two directories synced forever:
