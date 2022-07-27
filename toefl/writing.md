@@ -10,6 +10,7 @@
 7. The lecturer, however, finds the ... impractical and explains why the advantages mentioned in the passage are actually **disadvantages in disguise**.
 8. The reading passage holds on the view that ...
 9. The reading passage posses the idea that ...
+10. The lecturer cast doubts on them/this issue.
 
 
 # Task Two
@@ -27,7 +28,7 @@
    2. tourists are **tempting targets** for thieves...
    3. they don't know the **sketchy places** of the cities to which they travel.
    4. they are more likely to end up in a wrong neighborhood at a wrong time. 
-   5. Italy is notorious for **unsafe streets** where thieves **impersonate** police officers to rob tourists.
+   5. Italy is **notorious** for **unsafe streets** where thieves **impersonate** police officers to rob tourists.
 2. Appearance
    1. When a country is **rich in beautiful** **natural spots** or attractive buildings ...
    2. The more people travel to a place, the more famous it gets.
@@ -36,7 +37,7 @@
 
 ## Topic: Although science and technology will continue to improve, the most significant improvement for the quality of people’s lives have already taken place
 1. It was a **huge milestone** in medicine.
-2. Nuclear energy, if used properly, is a safe and never-ending energy source.
+2. Nuclear energy, if used properly, is a safe and **never-ending** energy source.
 
 ## Topic: Recommend a way to reduce expenses. 
 1. Introduction:
@@ -48,7 +49,7 @@
    6. Avoid **eating out**
    7. I will **elaborate on my reasons** in what follows.
 2. sharing room with a roommate:
-   1. ... **cut all living expense in half**.
+   1. ... **cut all living expenses in half**.
    2. **Save a ton of money**.
    3. having a roommate is a **consistent way** of saving money.
    4. There are many ways to **cut back expenses**.
@@ -59,7 +60,7 @@
 
 ## Topic: Is it worthwhile to watch movies containing invaluable information about daily life?
 1. Boost communication skills.
-2. Movies can lead people to **irreparable** outcomes.
+2. Movies can lead people to **irreparable/irrecoverable** outcomes.
 3. The more he **invested in** the stock market, the more he benefited.
 4. I totally ignored the fact that the man in the movie was a **contrived character** and not a real one.
 5. Stop watching **purposeless genres**; therefore, meaningless genres cannot unfavorably influence your life.
@@ -67,6 +68,6 @@
 # Sentences & Expressions:
 1. This would help them to earn a **superb** profit
 2. The more something is mined/produced, the more its **supply**.
-3. Some may shortsightedly think that people have already **reached the pinnacle** of the quality of their lives
+3. Some may **shortsightedly** think that people have already **reached the pinnacle** of the quality of their lives
 4. Nowadays, children are easily **surrendering to slightly tough/challenging circumstances**, which should **be dealt with**.
-5. The price of oil went **sky-high** went war broke out. 
+5. The price of oil went **sky-high** when war broke out. 
