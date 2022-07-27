@@ -109,6 +109,11 @@
    10. It wouldn't allow them to **prime themselves properly**.
    11. It wouldn't allow them to **prime themselves to do their jobs upon their graduation**.
    12. It wouldn't allow them to **enrich their experience**.
+   13. They would not gain hands-on experience.
+   14. The experience they gain during these part-time jobs is negligible.
+## Creating a housing complex on the only green-space available on a crowded city
+   1. people can gather there to get **rid of hustle and bustle of city life**. 
+   2. They can do **revitalizing activities** like sports which in turn would lead them to be more focused and productive.
 
 ## Topic: Parents should help their children to choose a career
 1. Disagree:
