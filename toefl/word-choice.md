@@ -19,3 +19,20 @@
 1. The only difference between toward and towards is the s. Both spellings are correct, and they mean the same thing: in the direction of.
 2. **Toward** is the preferred spelling in the United States and Canada. 
 3. In other English-speaking countries, such as the United Kingdom and Australia, **towards** is the more common spelling.
+
+## bind or bound
+Bind is used to indicate joining or uniting several things, and bound is to set a limit on something.
+Bind: 
+1. Islam binds all the Muslims together
+2. Bind the flour nicely by mixing some water and oil into it.
+Bound(past tense):
+3. Her hands and feet were bound to prevent her from moving.
+Bound(Word):
+4. We are bound to have change of plans based on weather conditions.(it is certain that we would change the plan)
+5. I am bound by my word to her. (I can’t do/tell anything beyond what I have promised)
+6. He is bound to work for the same company for 2 years. (limited to)
+7. These trains are north-bound. (the area or boundary of travel)
+8. The upper bound for age in this competition is 60 years. (limit)
+9. The wall bounds the swimming pool and the garden area. (sets a limit to)
+10. The train is bound to be late because of the ongoing clashes en-route. (certainly, the train will arrive late)
+Reference: https://www.grammar.com/bind_vs._bound_vs._bounded
