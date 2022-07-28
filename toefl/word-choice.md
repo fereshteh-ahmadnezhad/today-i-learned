@@ -36,3 +36,15 @@ Bound(Word):
 9. The wall bounds the swimming pool and the garden area. (sets a limit to)
 10. The train is bound to be late because of the ongoing clashes en-route. (certainly, the train will arrive late)
 Reference: https://www.grammar.com/bind_vs._bound_vs._bounded
+
+## Habitat or Inhabitant
+1. Habitat: a place that living creatures live in there
+   1. Watching monkeys in their natural habitat.
+   2. Dolphins are vulnerable to these poisons because of their coastal habitat.
+2. Inhabitant: a living creature that lives in a place
+   1. This is a poor rural area, with only one doctor per 10,000 inhabitants.
+   2. Originally this had four towers and a wooden palisade to protect the inhabitants.
+
+
+
+
