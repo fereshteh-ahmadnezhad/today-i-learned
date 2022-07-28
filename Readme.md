@@ -1,7 +1,7 @@
 # Today I Learned
-In this repository, I include all my notes and whatever I learn, so that everyone can benefit from it. 
+In this repository, I include all my notes and whatever I learn, so that everyone can benefit from them.
 ## [Linux](https://github.com/pooya-mohammadi/today-i-learned/blob/main/linux/ubuntu-readme.md)
-   * [How to move items with scp](https://github.com/pooya-mohammadi/today-i-learned/blob/main/linux/ubuntu-readme.md#how-to-move-items-with-scp)
+   * [How to move items with scp](https://github.com/pooya-mohammadi/today-i-learned/blob/main/linux/ubuntu.md#how-to-move-items-with-scp)
    * [Install Nvidia-Cuda-Cudnn-Torch-TensorFlow](https://github.com/pooya-mohammadi/today-i-learned/blob/main/cuda-gpu-torch-tensorflow/Readme.md)
 ## [Git](https://github.com/pooya-mohammadi/today-i-learned/tree/main/git)
    * [How to undo the latest commit](https://github.com/pooya-mohammadi/today-i-learned/blob/main/git/Readme.md#how-to-undo-the-latest-commit)
