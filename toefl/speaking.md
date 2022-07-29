@@ -111,7 +111,9 @@
    12. It wouldn't allow them to **enrich their experience**.
    13. They would not gain hands-on experience.
    14. The experience they gain during these part-time jobs is negligible.
-## Creating a housing complex on the only green-space available on a crowded city
+   15. Instead of part-time jobs, they can participate in workshops and get hands-on experience about their academic fields.
+
+## Topic: Creating a housing complex on the only green-space available on a crowded city
    1. people can gather there to get **rid of hustle and bustle of city life**. 
    2. They can do **revitalizing activities** like sports which in turn would lead them to be more focused and productive.
 
@@ -141,14 +143,15 @@
    2. Kids who take cooking classes, as an example, learn how to communicate and socialize with other people
    3. By learning personal finance, children can cut their expenses and be able to save their money efficaciously.
    4. They will acquaint to the circulation of money and economic procedures.
-## What can parents do to help their children have healthy lifestyles:
+
+## Topic: What can parents do to help their children have healthy lifestyles:
 1. Parents should become the role models for which children looking in that age.
 2. they should avoid anything that endangers a healthy life.
 3. they should educate their children about the importance of food hygiene
 4. How children should tackle debilitating stress they may have at school
 5. Encourage them to participate in sport clubs.
 
-## It is important to learn about other cultures.
+## Topic: It is important to learn about other cultures.
 1. Agree:
    1. It could enhance one's viewpoint and broaden/expand their horizon 
    2. when you come across a foreigner, it's very important to have information about the background of them like their nationality 
@@ -157,3 +160,30 @@
    5. It's extremely important for exchange students
    6. foreign cultures contain unparalleled knowledge and insight 
    7. By studying foreign cultures, one can reach exemplary role models.
+
+
+## Topic: building a housing complex on the only green space.
+1. Disagree:
+   1. City parks are the places where people can go with their friends and loved ones to get rest and get rid of hustle and bustle of city life.
+   2. They can do a variety of activities which are revitalizing and produce good vibes, which in turn would help them to be focused on their professional lives.
+   3. City parks can purify the air.
+   4. Nowadays, cities are plagued by pollution, especially the crowded ones, so making a housing complex on the green space can threaten people's health and **jeopardize** their **well-being** in the long run.
+
+## Topic: Schools need to encourage students to be more creative and use their imagination to be successful person.
+1. By doing so, students will become accustomed to using their imaginations when they encounter a problem in the future
+2. They would be able to think out of the box and propose outstanding solutions and ideas.
+3. Big corporation in the job market are looking for **distinguished innovative employees** because they need people to be able to handle the **most significant problems** **man-kind ever seen**, so teaching how to use imagination **should be advocated** in schools.
+4. They can approach problems differently.
+5. Creativity gives them the opportunity to explore the surroundings and learn new things from them without any boundaries.
+
+## Topic: Professors should answer the question of students at the end of the lecture or stop at different points
+1. End:
+   1. It could make the **lecture choppy** and dissuade students.
+   2. It may be highly **disruptive.**
+   3. The lecturer may fail to manage the time effectively.
+   4. It could also make the lecture boring for others.
+   5. It could discourage other students by numerous pauses...
+   6. They should be patient and keep up with other students.
+   7. Many questions raised in the middle of lectures may be answered as the lecturer proceeds.
+   8. Experienced lecturer include different aspects of a topic in their talks.
+   9. Therefore, it is a more effective strategy to let students raise questions at the end of the lecture.
