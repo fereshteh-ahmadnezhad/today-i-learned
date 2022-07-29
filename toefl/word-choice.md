@@ -45,6 +45,17 @@ Reference: https://www.grammar.com/bind_vs._bound_vs._bounded
    1. This is a poor rural area, with only one doctor per 10,000 inhabitants.
    2. Originally this had four towers and a wooden palisade to protect the inhabitants.
 
-
-
+## Nutrition, Nourishment, Nutrient
+1. Nutrition:
+   1. **the process of giving or getting** the right type of food for good health and growth.
+   2. **Nutrition and exercise** are essential to fitness and health.
+   3. a nutrition expert
+   4. malnutrition: when someone becomes ill or weak because they have not eaten enough good food
+      1. refugees suffering from malnutrition
+2. Nourishment:
+   1. **the food and other substances** that people and other living things need to live, grow, and stay healthy
+   2. lack of proper nourishment.
+   3. The soil provides nourishment for plant roots.
+3. Nutrient: **a chemical or food** that provides what is needed for **plants or animals** to live and grow
+   1. The plant absorbs nutrients from the soil.
 
