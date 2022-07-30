@@ -15,6 +15,7 @@
 12. The lecturer cast doubts on them/this issue.
 13. The lecturer, however, opposes them all and puts forth solutions to the above-mentioned problems.
 14. The author posits that ...
+15. An example will illustrate this better.
 
 # Task Two
 ## Handy collocations:
@@ -22,7 +23,8 @@
 2. I firmly possess the conviction that ...
 3. putting (one) at a disadvantage
    1. Finally, the author postulates that zebra mussels eat plankton putting freshwater fish at a disadvantage, which lowers their overall number.
-4. Throughout history, pursuing a ... has always been of importance ...
+4. Throughout history, pursuing a ... has always been of importance ... 
+
 
 ## Topic: In order to succeed, you should be more like others than be different from everyone else.
 1. **Hardly** will someone **get recognition** by following the same path of pioneers.
@@ -71,9 +73,20 @@
 4. I totally ignored the fact that the man in the movie was a **contrived character** and not a real one.
 5. Stop watching **purposeless genres**; therefore, meaningless genres cannot unfavorably influence your life.
 
+## Topic: Is it better for children to choose jobs that are similar to their parents' jobs than to choose jobs that are very different from their parents' jobs
+1. Alike:
+   1. Their jobs define their social and financial status.
+   2. Therefore, choosing a career path has become **more important than ever**.
+   3. Therefore, choosing a **career path** has become **ever more important**.
+   4. They know what lies ahead of them.
+   5. This will give them a better starting point to build on.
+
+
 # Sentences & Expressions:
 1. This would help them to earn a **superb** profit
 2. The more something is mined/produced, the more its **supply**.
 3. Some may **shortsightedly** think that people have already **reached the pinnacle** of the quality of their lives
 4. Nowadays, children are easily **surrendering to slightly tough/challenging circumstances**, which should **be dealt with**.
 5. The price of oil went **sky-high** when war broke out. 
+
+
