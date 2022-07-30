@@ -3,6 +3,8 @@ In this repository, I include all my notes and whatever I learn, so that everyon
 ## [Linux](https://github.com/pooya-mohammadi/today-i-learned/blob/main/linux/ubuntu-readme.md)
    * [How to move items with scp](https://github.com/pooya-mohammadi/today-i-learned/blob/main/linux/ubuntu.md#how-to-move-items-with-scp)
    * [Install Nvidia-Cuda-Cudnn-Torch-TensorFlow](https://github.com/pooya-mohammadi/today-i-learned/blob/main/cuda-gpu-torch-tensorflow/Readme.md)
+   * [How to mount a volume group](https://github.com/pooya-mohammadi/today-i-learned/tree/main/linux#what-is-vg-in-dev)
+   * [How to check all volumes in a linux-machine](https://github.com/pooya-mohammadi/today-i-learned/tree/main/linux#how-to-check-all-volumes-in-a-linux-machine)
 ## [Git](https://github.com/pooya-mohammadi/today-i-learned/tree/main/git)
    * [How to undo the latest commit](https://github.com/pooya-mohammadi/today-i-learned/blob/main/git/Readme.md#how-to-undo-the-latest-commit)
    * [How to fix merge conflict between forked and main repositories](https://github.com/pooya-mohammadi/today-i-learned/blob/main/git/Readme.md#how-to-fix-merge-conflict-between-forked-and-main-repositories)
