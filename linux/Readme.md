@@ -405,3 +405,19 @@ How to keep two directories synced forever:
 ```
 rsync -avu --delete /home/interns/audio/samples_02/samples_02_01/asr/ /root/label-studio/mydata/media/upload/audio/samples_02/samples_02_01/asr/while inotifywait -r -e modify,create,delete,move /home/interns/audio/samples_02/samples_02_01/asr; do    rsync -avu --delete /home/interns/audio/samples_02/samples_02_01/asr/ /root/label-studio/mydata/media/upload/audio/samples_02/samples_02_01/asr/done# If you close the terminal it stops working# installation: sudo apt-get install inotify-tools
 ```
+
+## How to check all volumes in a linux machine
+```commandline
+sudo lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL
+```
+
+## What is `vg` in `/dev`
+A volume group ( VG ) is the central unit of the Logical Volume Manager (LVM) architecture. It is what we create when we combine multiple physical volumes to create a single storage structure, equal to the storage capacity of the combined physical devices.
+
+### How to mount a volume group
+```commandline
+sudo bash
+mount /dev/vg<gp number>/vol <mount-path> -o uid=1000,gid=ai,rw
+mount /dev/vg0/vol /home/... -o uid=1000,gid=ai,rw
+chmod -R a+rwX /home/...
+```
