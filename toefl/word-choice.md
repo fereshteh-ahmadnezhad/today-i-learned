@@ -41,6 +41,7 @@ Reference: https://www.grammar.com/bind_vs._bound_vs._bounded
 1. Habitat: a place that living creatures live in there
    1. Watching monkeys in their natural habitat.
    2. Dolphins are vulnerable to these poisons because of their coastal habitat.
+   3. Landscape scale habitat restoration which can be replicated on a global scale
 2. Inhabitant: a living creature that lives in a place
    1. This is a poor rural area, with only one doctor per 10,000 inhabitants.
    2. Originally this had four towers and a wooden palisade to protect the inhabitants.
