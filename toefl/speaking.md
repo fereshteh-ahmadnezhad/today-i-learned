@@ -187,3 +187,5 @@
    7. Many questions raised in the middle of lectures may be answered as the lecturer proceeds.
    8. Experienced lecturer include different aspects of a topic in their talks.
    9. Therefore, it is a more effective strategy to let students raise questions at the end of the lecture.
+
+## Topic: Advertisement for junk food should be prohibited for children. 
