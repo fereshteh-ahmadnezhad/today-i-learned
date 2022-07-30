@@ -60,3 +60,11 @@ Reference: https://www.grammar.com/bind_vs._bound_vs._bounded
 3. Nutrient: **a chemical or food** that provides what is needed for **plants or animals** to live and grow
    1. The plant absorbs nutrients from the soil.
 
+## first-hand or hands-on
+1. hands-on:
+   1. "Hands on" means there is/was a physical interaction. You might have hands-on experience baking cookies, for example.
+   2. First hand means "directly." For example, a person who directly worked with drug using students as opposed to someone who read a report the first person wrote about their experience.
+2. first-hand:
+   1. experience gained first-hand
+   2. If you experience something firsthand, you experience it yourself
+   3. Most of the older reporters have experienced war firsthand.
