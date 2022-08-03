@@ -12,8 +12,8 @@
    1. Almost any experience can be related to future job-opportunities
       1. Even studying in groups can help students to become much more sociable and a team player, which in turn could help them to secure/land well-paid jobs in the future.
 4. Socialize and communicate with others
-   1. Every skill can be related to this skill. Even someone has mentioned how sociable members children can become in the future by taking cooking classes...
-   2. The other one has said that by doing household activities for free children will learn reciprocity; therefore, they will become **sociable members** of the future society because they would make their contribution without being paid...
+   1. Every skill can be related to this one. Even someone has mentioned how sociable members children can become in the future by taking cooking classes...
+   2. The other one said that by doing household activities for free, children will learn reciprocity. Therefore, they will become **sociable members** of the future society because they would make their contribution without being paid...
 
 
 ## Handy Reasons:
@@ -131,9 +131,9 @@
    2. There is stuff in life which **cannot equal money**; household tasks and activities are great examples of this.
 2. Agree:
    1. Money could be a **great encouragement** for children to be more **cooperative**.
-   2. They learn how to collaborate which will have **significant impact in their future lives**.
+   2. They learn how to **collaborate** which will have **significant impact in their future lives**.
    3. Children raised in this way tend to become more **sympathetic spouses** and **lead successful** **married lives**.
-   4. Giving children money in return to their service acquaints them with economic procedures.
+   4. Giving children money in return to their services acquaints them with **economic procedures**.
    5. It helps them **get insights into** **the circulation of money**.
    6. With this experience, children will grow up to be **sufficient members of the economic system** who **value money** and attempt to **make their contribution to society** adequately.
 
@@ -189,3 +189,27 @@
    9. Therefore, it is a more effective strategy to let students raise questions at the end of the lecture.
 
 ## Topic: Advertisement for junk food should be prohibited for children. 
+1. it will lure children away from proper eating habits.
+2. Therefore, they would develop an inappropriate/improper eating diet.
+3. The parents of young children should pay extra attention to children's food hygiene. As a result, they shouldn't let their kids watch such advertisements which can endanger their health..
+4. children will push pressure on their parents to buy these object to buy them, although the parents do not purchase or consume them.
+5. By eating these stuff, children will form and unhealthy lifestyle which will adversely affect their adulthood as well.
+6. I can cause serious health problems for young children.
+
+## Topic: Reading news on the internet or on television:
+1. The internet:
+   1. Reading the news on the internet is much more convenient.
+   2. The news is well explained, and I can easily scrutinize the provided information. 
+   3. Nowadays, thanks to the development of the Internet and social media, we can have all the information and different perspectives at our fingertips.
+   4. news on TV might be biased, the Internet can help us analyze events from different perspectives effortlessly.
+   5. watching TV, we should spend at least one hour to learn about the events some of which we might not be interested in or might not affect our lives directly. However, on the Internet we can spot the very news we are looking for very fast.
+
+## Topic: Friends are the most important influence in your life.
+1. Agree:
+   1. spend a big chunk of time together. 
+   2. They effect how we think and how we feel about ourselves.
+   3. We share ideas and treat each other favorably, which can boost self-confidence and self-esteem.
+   4. They can affect how we spend our money or where we go for holidays, and what we do at our leisure time.
+2. Disagree
+   1. Friends are temporary, and they may alter several time throughout one's lifetime.
+   2. Friends do not know us insides out.
