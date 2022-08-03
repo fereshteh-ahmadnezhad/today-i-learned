@@ -38,6 +38,7 @@
     3. It will **raise their self-esteem**.
     4. It will help them to have **sky-high spirits**.
     5. It will help them to **achieve a state of self-confidence** which would not **wear off easily**.
+    6. It will dissipate the aggressiveness in the young children.
 12. food:
     1. Obesity is **alarmingly on the rise**
     2. people should **cut** junk foods from their meals
@@ -136,6 +137,7 @@
    4. Giving children money in return to their services acquaints them with **economic procedures**.
    5. It helps them **get insights into** **the circulation of money**.
    6. With this experience, children will grow up to be **sufficient members of the economic system** who **value money** and attempt to **make their contribution to society** adequately.
+   7. When receiving money, children will **reciprocate** and do their contribution.
 
 ## Topic: Children should be required to learn practical skills in school, such as cooking or personal finance, in addition to academic subjects
 1. Agree:
