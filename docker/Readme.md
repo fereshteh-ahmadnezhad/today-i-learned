@@ -654,3 +654,16 @@ environment:
       - MINIO_ROOT_PASSWORD=${MINIO_ROOT_PASSWORD:-minio12345}
 After `:` you can pass default values[It's a bash command]
 ```
+
+## How to enable BuildKit in docker
+```commandline
+DOCKER_BUILDKIT=1 docker build .
+```
+
+## How to enable BuildKit in docker-compose
+```commandline
+COMPOSE_DOCKER_CLI_BUILD=1 docker-compose build
+COMPOSE_DOCKER_CLI_BUILD=1 docker-compose up --build
+# or 
+COMPOSE_DOCKER_CLI_BUILD=1 DOCKER_BUILDKIT=1 docker-compose build
+```
