@@ -68,3 +68,7 @@ Reference: https://www.grammar.com/bind_vs._bound_vs._bounded
    1. experience gained first-hand
    2. If you experience something firsthand, you experience it yourself
    3. Most of the older reporters have experienced war firsthand.
+
+## Compare with or to:
+1. compared to/with something
+2. It seems both are correct.
