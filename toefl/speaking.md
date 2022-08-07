@@ -120,15 +120,15 @@
 
 ## Topic: Parents should help their children to choose a career
 1. Disagree:
-   1. If parents choose a career for their children, it creates permanent responsibilities for parents because the moment children face a tough spot they would blame them for that...
-   2. It could effectively decrease children's self-steem and self-confidence 
+   1. If parents choose a career for their children, it creates permanent responsibilities for parents because **the moment children face a tough spot** they would blame them for that...
+   2. It could effectively decrease **children's self-esteem and self-confidence** 
 2. Agree:
-   1. parents can predict potential prosperity of each career; therefore, they can help their children to choose a job which offers the highest salaries and most prominent social status :)
+   1. parents can predict **potential prosperity** of each career; therefore, they can help their children to choose a job which offers the highest salaries and most prominent social status :)
    2. Teenagers have an **unstable state of mind**; thus, they might fail to **distinguish between temporary feelings and the authentic desires** they have, which leads them to choose a career that might not suit them the best in the future:)
 
 ## Topic: Children should receive money for doing household tasks such as cleaning.
 1. Disagree:
-   1. It's a kind of reciprocity, as the parents are not paid for raising children; they should do their share as well.
+   1. **It's a kind of reciprocity**, as the parents are not paid for raising children; they should do their share as well.
    2. There is stuff in life which **cannot equal money**; household tasks and activities are great examples of this.
 2. Agree:
    1. Money could be a **great encouragement** for children to be more **cooperative**.
@@ -215,3 +215,17 @@
 2. Disagree
    1. Friends are temporary, and they may alter several time throughout one's lifetime.
    2. Friends do not know us insides out.
+
+## Topic: Characteristics of a leader of a school project.
+1. They should easily communicate with group members
+2. Help group members to get along with others.
+3. Set goals and convey them to group members
+4. Good leaders are **resourceful** and capable of **finding innovative** solutions when members **turn to them** for their problems
+5. Good leaders would create a revitalizing environment for their group members, so they would develop good self-images and endeavor to reach defined goals.
+6. Moreover, a **competent leader** should be decisive. 
+7. Groups may face **challenging circumstances which need to be dealt with promptly**. Therefore, group leaders should be able to **make decisions on the nail**.
+8. Being led by a decisive leader, group members will become incentivized. Thus, they would make their contribution to achieve shared goals.
+9. They should be able to save their group from being **disbanding**.
+
+## Topic: Private cars should be prohibited from entering the centers of large cities
+1. Numerous cars can add to air pollution, which in turn can cause serious problems from **city dwellers**
