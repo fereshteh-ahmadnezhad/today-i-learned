@@ -16,6 +16,12 @@
 13. The lecturer, however, opposes them all and **puts forth** solutions to the above-mentioned problems.
 14. The **author posits** that ...
 
+more sentences:
+1. they are subjected to stricter regulations
+2. they are less likely to commit a crime
+3. This led my parents to respect an artisan more than a teacher.
+4. These people are more genteel...
+
 ## Synonyms:
 1. adversely: unfavorably
 
