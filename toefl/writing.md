@@ -13,8 +13,11 @@
 10. The text **points out that** ...
 11. The author **postulates that** ...
 12. The lecturer **casts doubts on them/this issue**.
-13. The lecturer, however, opposes them all and puts forth solutions to the above-mentioned problems.
+13. The lecturer, however, opposes them all and **puts forth** solutions to the above-mentioned problems.
 14. The **author posits** that ...
+
+## Synonyms:
+1. adversely: unfavorably
 
 # Task Two
 ## Handy collocations:
@@ -35,7 +38,7 @@
    1. It has several historical attractions **varying from the outstanding jungles** of the north to the **unmatched beauty of the ocean** in the south.
    2. tourists are **tempting targets** for thieves...
    3. they don't know the **sketchy places** of the cities to which they travel.
-   4. they are more likely to end up in a wrong neighborhood at a wrong time. 
+   4. they are more likely to end up in **a wrong neighborhood at a wrong time**. 
    5. Italy is **notorious** for **unsafe streets** where thieves **impersonate** police officers to rob tourists.
 2. Appearance
    1. When a country is **rich in beautiful** **natural spots** or attractive buildings ...
@@ -71,15 +74,15 @@
 2. Movies can lead people to **irreparable/irrecoverable** outcomes.
 3. The more he **invested in** the stock market, the more he benefited.
 4. I totally ignored the fact that the man in the movie was a **contrived character** and not a real one.
-5. Stop watching **purposeless genres**; therefore, meaningless genres cannot unfavorably influence your life.
+5. Stop watching **purposeless genres**; therefore, meaningless genres cannot **unfavorably** influence your life.
 
 ## Topic: Is it better for children to choose jobs that are similar to their parents' jobs than to choose jobs that are very different from their parents' jobs
 1. Alike:
-   1. Their jobs define their social and financial status.
+   1. Their jobs define their **social and financial status**.
    2. Therefore, choosing a **career path** has become **more important than ever**.
    3. Therefore, choosing a **career path** has become **ever more important**.
-   4. They know what lies ahead of them.
-   5. This will give them a better starting point to build on.
+   4. They know what **lies ahead of them**.
+   5. This will give them a **better starting point** to build on.
 
 
 # Sentences & Expressions:
