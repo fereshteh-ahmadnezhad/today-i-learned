@@ -91,9 +91,9 @@
 
 ## Topic: studying with others in a group is more beneficial. Explain your reasons.
 1. Agree:
-   1. one can use the **insight and knowledge** of other group members
+   1. one can use the **insights and knowledge** of other group members
    2. Students have various **cognitive skills**, and each can **master a different subject**; thus, they can help each other to learn more comprehensively.
-   3. Student can **enrich their social skills**, for each member has **unique characteristics and perspectives**, so they will encounter various types of people, which in turn will help them to become more socially compatable with others.
+   3. Students can **enrich their social skills**, for each member has **unique characteristics and perspectives**, so they will encounter various types of people, which in turn will help them to become more **socially competent**.
    4. Studying in groups will relieve the pressure students may feel during studying demanding topics by **providing a friendly environment/atmosphere**.
 
 ## Topic: part-time job while attending university
@@ -228,4 +228,25 @@
 9. They should be able to save their group from being **disbanding**.
 
 ## Topic: Private cars should be prohibited from entering the centers of large cities
-1. Numerous cars can add to air pollution, which in turn can cause serious problems from **city dwellers**
+1. Numerous cars can add to air pollution, which in turn will cause serious problems for **city dwellers**
+
+## Topic: In order to reduce traffic congestion which is increasing nowadays, what can we do
+1. To combat traffic congestion, several measures can be taken.
+2. First:
+   1. Thanks to the new generation of the Internet, more services can become available for people to do their tasks, chores, and even their job from home.
+   2. For example, students can take their classes online and people can do their banking transaction from home.
+3. Second:
+   1. By providing adequate public transportation, governments should encourage people not to use their private cars.
+   2. People can also participate in ride-sharing programs or take bikes to get to their workplaces in **return for a clean traffic-free city**. 
+
+## Topic: If you were a teacher of tutor group, where would you take your them to?
+1. museum:
+   1. museums provide a lot of authentic materials and hands-on lessons which would help students to get involved int them
+   2. This will help them get more scientific knowledge more effectively
+   3. There are also plenty of interactive programs and exhibits to go around.
+   4. They can gain **insights into scientific breakthroughs**.
+   5. Each museum has their own professors and proficient officers which can provide unique and valuable facts about the items and objects.
+   6. These interactive programs can help students to gain more meaningful hands-on experience about the history of a particular knowledge field.
+## Topic: handwriting or typing:
+1. handwriting:
+   1. It will delve a good impression on people when they see beautiful handwriting.
