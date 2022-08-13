@@ -28,11 +28,13 @@ more sentences:
 # Task Two
 ## Handy collocations:
 1. The ... is a compelling example of this.
-2. An example will illustrate this better.
-3. I firmly possess the conviction that ...
-4. putting (one) at a disadvantage
+2. I count myself among the proponents of the latter idea and in what follows, I will delve into two reasons to shed light on my response.
+3. The second noteworthy point that comes to mind is that ...
+4. An example will illustrate this better.
+5. I firmly possess the conviction that ...
+6. putting (one) at a disadvantage
    1. Finally, the author postulates that zebra mussels eat plankton putting freshwater fish at a disadvantage, which lowers their overall number.
-5. Throughout history, pursuing a ... has always been of importance ... 
+7. Throughout history, pursuing a ... has always been of importance ... 
 
 
 ## Topic: In order to succeed, you should be more like others than be different from everyone else.
@@ -90,12 +92,9 @@ more sentences:
    4. They know what **lies ahead of them**.
    5. This will give them a **better starting point** to build on.
 
-
 # Sentences & Expressions:
 1. This would help them to earn a **superb** profit
 2. The more something is mined/produced, the more its **supply**.
 3. Some may **shortsightedly** think that people have already **reached the pinnacle** of the quality of their lives
 4. Nowadays, children are easily **surrendering to slightly tough/challenging circumstances**, which should **be dealt with**.
 5. The price of oil went **sky-high** when war broke out. 
-
-

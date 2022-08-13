@@ -44,6 +44,9 @@
     2. people should **cut** junk foods from their meals
     3. people should pay **extra attention** to **food hygiene**
     4. to dismiss extra fat from their body, people should **stop eating-out** 
+13. teamwork:
+    1. Nourish the ability of teamwork.
+    2. 
 
 ## Topic: People will read less book in the future
 1. **thanks to the cutting-edge technology**, reading books has become easier.
@@ -247,6 +250,21 @@
    4. They can gain **insights into scientific breakthroughs**.
    5. Each museum has their own professors and proficient officers which can provide unique and valuable facts about the items and objects.
    6. These interactive programs can help students to gain more meaningful hands-on experience about the history of a particular knowledge field.
+
 ## Topic: handwriting or typing:
 1. handwriting:
    1. It will delve a good impression on people when they see beautiful handwriting.
+2. Typing on a computer:
+   1. Handwriting is no longer a necessary skill
+
+## Topic: which history course would you take if you were to take one:
+1. twentieth century
+   1. It provides a better understanding of the contemporary world, which can help me to make wiser decisions.
+   2. What happens now have their root in the events which took place in the 20th century. Therefore, understanding them would help make more rational decisions.
+   3. There are a lot of mysteries which can be intriguing. 
+   4. Unravelling such mysteries can be really thought-provoking.
+2. science class:
+   1. It can be food for thought/thought-provoking
+   2. getting acquainted with scientific figures can be intriguing because you want to delve into their work which in turn leads to better understanding their thoughts and contributions
+   3. One can cling to these figures and try to mimic and follow their footsteps which eventually will help them to become like one of those prominent individuals.
+   4. Moreover, there are various unsolved mysteries in the past which by knowing them one can find his own field of study and would be able to fulfill his dreams.
